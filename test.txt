@@ -1,0 +1,34 @@
+Introduction to GitHub
+4 min remaining
+Module
+8 Units
+Beginner
+DevOps Engineer
+Administrator
+Developer
+Solution Architect
+Student
+GitHub
+Azure
+Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.
+
+Learning objectives
+In this module, you will:
+
+Identify the fundamental features of GitHub
+Learn about repository management
+Gain an understanding of the GitHub flow, including branches, commits, and pull requests
+Explore the collaborative features of GitHub by reviewing issues and discussions
+Recognize how to manage your GitHub notifications and subscriptions
+Prerequisites
+A GitHub account
+This module is part of these learning paths
+Automate your workflow with GitHub Actions
+Build community-driven software projects on GitHub
+Collaborate with others with Markdown and GitHub Pages
+Get started with GitHub and Visual Studio Code
+GitHub fundamentals - Administration basics and product features.
+Learn how Microsoft supports secure software development as part of a cybersecurity solution
+Manage source control
+Manage the lifecycle of your projects on GitHub
+Introduction
